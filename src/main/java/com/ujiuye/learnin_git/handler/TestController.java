@@ -19,4 +19,8 @@ public class TestController {
     public String hello(){
         return "你好！";
     }
+    @RequestMapping("/xxx")
+    public String xxx(){
+        return "你好！";
+    }
 }
