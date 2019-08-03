@@ -15,9 +15,4 @@ public class TestController {
     public String index(){
         return "hello Git";
     }
-    @RequestMapping("/hello")
-    public String hello(){
-        return "你不好！";
-    }
-
 }
