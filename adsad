@@ -1,0 +1,30 @@
+[33mcommit 219548175015b7b3269ef9c181829c5cc28053bf[m[33m ([m[1;36mHEAD -> [m[1;32m开发一个新功能[m[33m, [m[1;31mSpring-Boot-Git/开发一个新功能[m[33m)[m
+Author: Su Yilin <964498287@qq.com>
+Date:   Sat Aug 3 09:05:22 2019 +0800
+
+    你不好
+
+[33mcommit 53b7d5dd14ab1cfe1556029925a5e557bac42500[m[33m ([m[1;31mSpring-Boot-Git/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Su Yilin <964498287@qq.com>
+Date:   Fri Aug 2 22:42:51 2019 +0800
+
+    删除了刚刚添加的方法
+
+[33mcommit bdc0e5be4d8ffa3a220afe3a6bf0810d3aec5675[m
+Author: Su Yilin <964498287@qq.com>
+Date:   Fri Aug 2 22:37:44 2019 +0800
+
+    删除了static
+    又添加了一个方法
+
+[33mcommit 42503d37cd845b696a0ab7648a283217e7bec332[m
+Author: Su Yilin <964498287@qq.com>
+Date:   Fri Aug 2 22:24:09 2019 +0800
+
+    添加了中文欢迎
+
+[33mcommit 3eb2f3c100d851e1a4c7d3137ba72bab4d321fe0[m
+Author: Su Yilin <964498287@qq.com>
+Date:   Fri Aug 2 22:07:50 2019 +0800
+
+    我的第一个Spring Boot +git
