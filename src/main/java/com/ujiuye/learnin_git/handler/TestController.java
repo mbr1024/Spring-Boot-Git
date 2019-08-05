@@ -15,6 +15,10 @@ public class TestController {
     public String index(){
         return "hello Git";
     }
+    @RequestMapping("/index")
+    public String index2(){
+        return "hello Git";
+    }
 
 
 }
