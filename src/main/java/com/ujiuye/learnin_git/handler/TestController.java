@@ -16,8 +16,5 @@ public class TestController {
         return "hello Git";
     }
 
-    @RequestMapping("/hh")
-    public String hh() {
-        return "hh";
-    }
+
 }
